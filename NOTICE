@@ -1,0 +1,32 @@
+Bodytype.org algorithm v2 test vectors release
+Copyright (c) 2026 Bodytype.org
+https://bodytype.org
+
+Attribution requirement
+-----------------------
+Any use of the code, data, tables or figures in this release must credit
+Bodytype.org and link to https://bodytype.org.
+
+For the synthetic data, tables and figures, this attribution is required by
+the CC BY 4.0 license. For documentation and code, the MIT License applies;
+keep its copyright and permission notice, and also credit Bodytype.org with a
+link to https://bodytype.org when you reuse them.
+
+Source page:
+https://bodytype.org/research/bodytype-algorithm-v2
+
+Scope and limits
+----------------
+This release documents Bodytype's v2 four-girth classification rules and
+provides 15 synthetic test vectors. It is not a population sample, an accuracy
+study, a measurement-error model, medical data or a medical device. It contains
+no user measurements.
+
+Files and checksums
+-------------------
+See algorithm-v2/SHA256SUMS for the test vectors, schema and vector README.
+
+Contacts
+--------
+Bodytype.org
+https://bodytype.org

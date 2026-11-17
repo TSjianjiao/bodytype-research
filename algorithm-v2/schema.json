@@ -1,0 +1,18 @@
+{
+  "name": "bodytype-algorithm-v2-test-vectors",
+  "algorithm_version": "2",
+  "updated": "2026-11-17",
+  "description": "Synthetic test vectors for the Bodytype v2 classification rule set. No user measurements are included.",
+  "units": "cm",
+  "fields": {
+    "id": "Vector number.",
+    "bust_cm": "Bust girth in centimetres (field upper).",
+    "waist_cm": "Waist girth in centimetres.",
+    "high_hip_cm": "High-hip girth in centimetres (field highHips).",
+    "hips_cm": "Hip girth in centimetres.",
+    "label": "Expected Bodytype label id.",
+    "stability_radius_cm": "Single-field stability radius in centimetres (0 = on a boundary).",
+    "reachable_labels": "Semicolon-separated reachable label ids at the radius; empty if none.",
+    "note": "Human-readable remark."
+  }
+}

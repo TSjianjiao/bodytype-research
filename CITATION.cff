@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this method documentation or these test vectors, cite this release and credit Bodytype.org with a link to https://bodytype.org."
+title: "Bodytype algorithm v2: method, thresholds and test vectors"
+abstract: >-
+  Deterministic method documentation and 15 synthetic test vectors for
+  Bodytype's v2 four-girth body type styling rules. The release records the
+  four inputs, three ratios, five ordered rules, threshold constants, equality
+  semantics and single-field stability radii. It is not a trained model, not a
+  population sample, not an accuracy study and not medical data. Documentation
+  and code are released under the MIT License; synthetic data, tables and
+  figures are released under CC BY 4.0. Any use must credit Bodytype.org and
+  link to https://bodytype.org.
+type: dataset
+authors:
+  - name: "Bodytype.org"
+version: "1.0.0"
+date-released: "2026-11-17"
+license: "CC-BY-4.0"
+url: "https://bodytype.org/research/bodytype-algorithm-v2"
+repository-code: "https://github.com/TSjianjiao/bodytype-research"
+keywords:
+  - body type calculator
+  - algorithm documentation
+  - test vectors
+  - classification thresholds
+  - synthetic data
+  - reproducibility
