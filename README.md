@@ -47,8 +47,9 @@ Any reuse must credit **Bodytype.org** and link to <https://bodytype.org>.
 
 ## Citation
 
-See `CITATION.cff`. The Zenodo version DOI is added once the release is archived;
-until then cite the stable method-page URL.
+See `CITATION.cff`. Zenodo version DOI: `10.5281/zenodo.24304074` (concept DOI
+`10.5281/zenodo.24304073`). Record: <https://zenodo.org/records/24304074>.
+The GitHub release tag is `algorithm-v2-v1.0.0`.
 
 ## Scope and limits
 

@@ -18,6 +18,14 @@ date-released: "2026-11-17"
 license: "CC-BY-4.0"
 url: "https://bodytype.org/research/bodytype-algorithm-v2"
 repository-code: "https://github.com/TSjianjiao/bodytype-research"
+doi: "10.5281/zenodo.24304074"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24304074"
+    description: "Zenodo version DOI"
+  - type: doi
+    value: "10.5281/zenodo.24304073"
+    description: "Zenodo concept DOI"
 keywords:
   - body type calculator
   - algorithm documentation
